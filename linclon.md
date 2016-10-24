@@ -5,7 +5,7 @@ layout: page
 
 ![INTERNETS!](images/internat.png)
 
-# Mouths
+# Mouths are made of:
 
 
 ## * tooths/teeth
